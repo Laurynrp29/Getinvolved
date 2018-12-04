@@ -1,0 +1,17 @@
+---
+title: "Get Involved"
+author: "Lauryn Pavlik"
+output: html_notebook
+---
+
+# Part 1) Join a club
+Which club did you choose to join, and why?
+What went on at the first meeting? (this can be brief!)  Was it worthwhile?
+Do you think you’ll remain involved?  Why or why not?
+
+# Part 2) Go to 4 diverse events 
+Turn in a document showing a picture of you at the event and a few sentences describing your thoughts about each event:
+Why did you choose this event to attend?
+What did you think of the event?
+What did you get out of it?
+Are you glad you attended?  Why or why not?
