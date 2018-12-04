@@ -5,17 +5,23 @@ output: html_notebook
 ---
 
 # Part 1) Join a club
-##Which club did you choose to join, and why? What went on at the first meeting? (this can be brief!)  Was it worthwhile?Do you think you’ll remain involved?  Why or why not?
+##Which club did you choose to join, and why? What went on at the first meeting? (this can be brief!)  Was it worthwhile? Do you think you’ll remain involved? Why or why not?
+I chose to join the Statistics club because I am a statistics major. At the first meeting, we discussed what the club is about and different opportunities and insights the club will provide us. I do not think I will remain involved because I am in the Bells club and wish to join the actuarial science club.
 
 # Part 2) Go to 4 diverse events 
-##Turn in a document showing a picture of you at the event and a few sentences describing your thoughts about each event:Why did you choose this event to attend?What did you think of the event?What did you get out of it?Are you glad you attended?  Why or why not?
+##Turn in a document showing a picture of you at the event and a few sentences describing your thoughts about each event:Why did you choose this event to attend? What did you think of the event? What did you get out of it?Are you glad you attended?  Why or why not?
 ###1) The Bells
+This is another club that I chose to join. One of the friends I had made on my dorm floor, offered for me to be an officer on the board for a new club she was starting. The club is officially approved and I am the website and social media manager for it. The picture shows one of the executive meetings. I am glad I joined and i attended so I can meet new people and get a chance to volunteer at homeless shelters.
+
 ![](The Bells.jpg)
 
 ###2) Football Game
+
 ![](Football.jpg)
 ###3) Puppy Hugging Event
+
 ![](Puppy.jpg)
 ###4) Kevin Hart
+
 ![](kevin hart.jpg)
 
